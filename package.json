@@ -1,0 +1,15 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "Early version of the Smart Advisor Skype Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
+}
